@@ -1,0 +1,13 @@
+{
+  "Post": {
+    "title": "HelloWorld",
+    "views": "10",
+    "published": "true",
+    "createdAt": "20210329",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "good",
+    "post": "Post"
+  }
+}
